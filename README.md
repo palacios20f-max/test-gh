@@ -13,5 +13,4 @@ git status
 git add --all
 git commit -m "comentario"
 
-![mifoto](https://github.com/user-attachments/assets/d398fe4c-63cb-4f71-a558-35be340631c6)
-
+![mifoto](https://github.com/user-attachments/assets/1a8d0fe1-3ac4-4f05-9bcc-1bc438dd7770)
